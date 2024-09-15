@@ -9,7 +9,7 @@ function App() {
           <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white rounded-3xl px-3 py-2">
             <button onClick={()=>setColor("red")}
           className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
-          style={{background:"red"}}>Red</button>
+          style={{backgroundColor:"red"}}>Red</button>
 
             <button onClick={()=>setColor("green")}
           className="outline-none px-4 py-1 rounded-full text-white shadow-lg"

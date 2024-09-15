@@ -43,7 +43,7 @@ function App({currency}) {
                     >
                         <div className="w-full mb-1">
                             <InputBox
-                                label="From"
+                                label="From" 
                                 amount={amount}
                                 currencyOptions={options}
                               onCurrencyChange={(currency)=>setFrom(currency)}
@@ -85,3 +85,5 @@ function App({currency}) {
 }
 
 export default App
+
+

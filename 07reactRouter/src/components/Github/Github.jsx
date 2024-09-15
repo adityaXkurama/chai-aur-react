@@ -17,7 +17,8 @@ export default function Github() {
     //     .then(Response=>Response.json())
     //     .then(data=>{
     //         console.log(data);
-    //         setData(data)
+    //         setData(data) 
+    //         setData(data) 
     //     })
     // },[])
   return (
